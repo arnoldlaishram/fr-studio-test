@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Finalrun Studio</title>
+        <description>Most recent updates to Finalrun Studio</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.1.32</title>
+            <sparkle:version>0.1.32</sparkle:version>
+            <sparkle:shortVersionString>0.1.32</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Feature:</b><br>
+• Test Step creation with AI - Beta<br>
+<br>
+<b>Improvements:</b><br>
+• Drag and Drop<br>
+<br>]]>
+            </description>
+            <pubDate>Mon, 30 Jun 2025 22:17:26 +0000</pubDate>
+            <enclosure url="https://github.com/arnoldlaishram/fr-studio-test/releases/download/v0.1.32/FinalRun-0.1.32-macos.zip" sparkle:edSignature="gNm9bcEpeRvrB/LZyIoFpaJm6zLm/eP+rAcNe9PXXQNCuz6B/UT5ENdR1d5HTuwzqPem/FBDBdCRrqa7vk/ZCw==" sparkle:os="macos" length="129450019" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 0.1.31</title>
+            <sparkle:version>0.1.31</sparkle:version>
+            <sparkle:shortVersionString>0.1.31</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Fixes:</b><br>
+• Refresh remote devices<br>
+• Invalid state in Conditional statement<br>
+<br>]]>
+            </description>
+            <pubDate>Fri, 20 Jun 2025 10:47:56 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.31/FinalRun-0.1.31-macos.zip" sparkle:edSignature="RsX3IRFFrvcR6kZN/pfnjEDizUE64Zkff5NH+SYCqQxpJ38U1m8x8aUui6C84UO/S4Owy+nzTZ3Gk56suBqQAw==" sparkle:os="macos" length="84001355" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 0.1.30</title>
+            <sparkle:version>0.1.30</sparkle:version>
+            <sparkle:shortVersionString>0.1.30</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Feature:</b><br>
+• Test Editor Modes for Running and Editing Test case<br>
+<br>
+<b>Improvement:</b><br>
+• Local device connection stability<br>
+<br>]]>
+            </description>
+            <pubDate>Thu, 19 Jun 2025 10:12:32 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.30/FinalRun-0.1.30-macos.zip" sparkle:edSignature="AkCrwTufhhmxZyypXSKcVtKzkj7L8+ChQ4gwThzNoozx1WTRa4Uw2DeopB+5yxy4EC5PKtDcscQiHaWOaq5DAw==" sparkle:os="macos" length="83997952" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 0.1.29</title>
+            <sparkle:version>0.1.29</sparkle:version>
+            <sparkle:shortVersionString>0.1.29</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Fixes:</b><br>
+• TestSuite Configuration not showing after selecting test cases<br>
+• Add steps after API test steps<br>
+• <br>
+<br>]]>
+            </description>
+            <pubDate>Tue, 17 Jun 2025 10:51:29 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.29/FinalRun-0.1.29-macos.zip" sparkle:edSignature="Dr+Tm81RJ6hvfUO4j9F04JIZWtuv2joCFldfxFosVvCIsFC0VL5in6rxwqp7wB6fUT5QrocGbTW2Qv7Eec5sDw==" sparkle:os="macos" length="83963175" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 0.1.28</title>
+            <sparkle:version>0.1.28</sparkle:version>
+            <sparkle:shortVersionString>0.1.28</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>New Feature:</b><br>
+• Group Test cases by folder<br>
+• Added support for more UI element types like radio, checkbox and editable fields<br>
+<br>
+<b>Improvements:</b><br>
+• AI Regex generation for assertion with invalid queries <br>
+• AI Regex generation for extraction with invalid queries <br>
+<br>
+<b>Fixes:</b><br>
+• Device getting locked after TestRun in local<br>
+• Add new test step pointer getting lost<br>
+• <br>
+<br>
+<br>]]>
+            </description>
+            <pubDate>Mon, 16 Jun 2025 14:44:34 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.28/FinalRun-0.1.28-macos.zip" sparkle:edSignature="2k0LRtUwt/MxziFv5fdBnFGBcSVncaPfjry1m0sTrEgz0BNBOfaxltKdBJijL+BTLtjUYB8raZTh9GKlRoYcCQ==" sparkle:os="macos" length="83962219" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 0.1.27</title>
+            <sparkle:version>0.1.27</sparkle:version>
+            <sparkle:shortVersionString>0.1.27</sparkle:shortVersionString>
+            <description>
+                <![CDATA[<b>Improvements:</b><br>
+• Enhanced Streaming in TestEditor on Low Network<br>
+<br>
+<b>Fixes:</b><br>
+• Intermittent device connection issue<br>
+• Device connection in Oneplus phones<br>
+• Launch app step fix with permissions<br>
+• File picker fixes<br>
+<br>]]>
+            </description>
+            <pubDate>Thu, 12 Jun 2025 12:17:59 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.27/FinalRun-0.1.27-macos.zip" sparkle:edSignature="yTvceUa8xFC+2BXLlmfoqT/yS+ywhKmnkwo78reMfkKkStEMngWATvv+1xo6bXNss7udNgVEjBWOJN9AS/D6Dg==" sparkle:os="macos" length="83865522" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 0.1.26</title>
+            <sparkle:version>0.1.26</sparkle:version>
+            <sparkle:shortVersionString>0.1.26</sparkle:shortVersionString>
+            <description>
+                <![CDATA[• AI Support in Regex and JSON Path<br>
+• Dataset Support<br>
+• Repeat Steps Support<br>]]>
+            </description>
+            <pubDate>Fri, 06 Jun 2025 12:59:40 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.26/FinalRun-0.1.26-macos.zip" sparkle:edSignature="luRXnCMayCppuLMGwCSjj/vR/zG+uMevgxF6SOADeiW42VMADLLhmpkVZJvpXYpJcszGVEhNr1SOom1JGDJXBw==" sparkle:os="macos" length="83861082" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 0.1.25</title>
+            <sparkle:version>0.1.25</sparkle:version>
+            <sparkle:shortVersionString>0.1.25</sparkle:shortVersionString>
+            <description>
+                <![CDATA[• AI Support in Regex and JSON Path<br>
+• Dataset Support<br>
+• Repeat Steps Support<br>]]>
+            </description>
+            <pubDate>Thu, 05 Jun 2025 19:57:59 +0000</pubDate>
+            <enclosure url="https://github.com/final-run/finalrun-studio/releases/download/v0.1.25/FinalRun-0.1.25-macos.zip" sparkle:edSignature="xwSuPJUkixuSB4VZxgbLs46EnmJ4GFN4ifte8WouT6xsqLArBNpua7jI7lQAk5FoUFIDeaTDr/tOhKIcssPgDw==" sparkle:os="macos" length="83825776" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
